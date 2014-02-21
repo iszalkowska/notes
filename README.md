@@ -22,6 +22,6 @@ Praktycznie każdy język programowania ma taki program,
 ## TODO
 W niedzielę:
 1. Porozmawiać o Github Desktop.
-2. Powtórzyc notację Markdown.
+2. Powtórzyć notację Markdown.
 3. Markdown online.
 
