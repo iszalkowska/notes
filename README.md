@@ -11,3 +11,6 @@ int main() {
    return 0;
 }
 
+
+Praktycznie każdy język programowania ma taki program, zob. [Hello world program] 
+
