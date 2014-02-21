@@ -12,5 +12,5 @@ int main() {
 }
 
 
-Praktycznie każdy język programowania ma taki program, zob. [Hello world program] 
+Praktycznie każdy język programowania ma taki program, zob. [Hello world program](http://pl.wikipedia.org/wiki/Specjalna%3ASzukaj/hello+world)
 
