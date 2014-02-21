@@ -4,7 +4,7 @@ Zwyczajowo (kto to wymyślił?) zaczynamy od programu
 *hello world*:
 
 ```c
-int main) {
+int main() {
    printf("hello world\n");
    return 0;
 }
