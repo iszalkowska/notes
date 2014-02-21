@@ -13,6 +13,6 @@ int main() {
 
 
 Praktycznie każdy język programowania ma taki program, zob. 
-[Hello world program][1]
+[Hello world program][1].
 (http://pl.wikipedia.org/wiki/Specjalna%3ASzukaj/hello+world)
 
