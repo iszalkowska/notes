@@ -10,9 +10,9 @@ int main() {
    printf("hello world\n");
    return 0;
 }
+```
 
-
-Praktycznie każdy język programowania ma taki program, zob. 
+Praktycznie każdy język programowania ma taki program,  
 [Hello world program][1].
-(http://pl.wikipedia.org/wiki/Specjalna%3ASzukaj/hello+world)
+[1]:(http://pl.wikipedia.org/wiki/Specjalna%3ASzukaj/hello+world)
 
