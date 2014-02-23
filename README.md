@@ -1,4 +1,4 @@
-![Dennis Ritchie](http://upload.wikimedia.org/wikipdia/commons/0/08/Medal lg.jpeg)
+![Dennis Ritchie](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
 
 ##JĘZYK C-PIERWSZE PROGRAMY
 
