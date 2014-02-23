@@ -1,7 +1,6 @@
-[Dennis Ritchie][2].
-[2]:(http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
+![Dennis Ritchie](http://upload.wikimedia.org/wikipdia/commons/0/08/Medal lg.jpeg)
 
-##pierwsze programy w C
+##JĘZYK C-PIERWSZE PROGRAMY
 
 Zwyczajowo (kto to wymyślił?) zaczynamy od programu 
 *hello world*:
