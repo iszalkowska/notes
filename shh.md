@@ -1,4 +1,4 @@
-$ cd ~/.ssh/
+~$ ~/.ssh/
 $ ls -al
 # Lists the files in your .ssh directory
 $ ssh-keygen -t rsa -C "iwonasz@poczta.onet.pl"
